@@ -1,0 +1,83 @@
+---
+title: "First Knit"
+author: "Nathan Calderon"
+output: 
+  html_document:
+    number_sections: true
+    toc: true
+    toc_depth: 5
+date: "`r Sys.Date()`"   
+---
+
+# A Little Survey
+
+Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.  For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct puncuation. 
+
+## A short history of you.  
+Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question. 
+  
+### my answer 
+I attended Highland Highschool, I ended up graduating on time although many people thought I wouldnt, I also graduated by joining the independent study program which help me prosper. I would say math comes to me easy when taught well, but english is less complicated but you learn way more with math and even if you can or cannot understand it, its always good to study and learn until you do because math can apply to anything. 
+     
+
+
+## Your computer and your and its capability?  
+ For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
+
+### my answer   
+ For this class I do realize it will be including alot of computer work, so having a built PC at home is convient, I have a cyberpower PC and it is pre built, I do want to buy a laptop so it is more eaiser for me to use and so I can bring it everywhere like school as a normal pc has to be stationed in one area. If I were to rate my electronic skills i would say around 8.5, to 9 on a good day, I did help my uncle build a few pcs and when it comes to websites such as posit cloud and github. Although it seems complicated on the outside and especially to older people who have a hard time compehending this type of work can simply fall back in class. Yes I do need to have internet access as my pc is connected to my LAN cable which gives direct and fast internet to my router to my pc.  
+   
+
+## Others and You?   
+What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
+
+### my answer     
+I wouldnt mind people calling me my my goverment name nathan, but I like to be called nate. 
+   
+ 
+
+
+
+
+## Aspirations?   
+What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
+
+### my answer     
+  
+   
+ What I want to achieve in life is to give the people who took care of me a weight or anvil of their chest for the sufferings they've been through trying to take care of me and my well being and be able to uplift everyone around me and become the breadwinner in my family and to break generational curses. I am trying to acheive my AS Degree which correlates to my ct tech and radiology job.
+
+
+
+
+## Past adventures?  
+Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
+
+### my answer     
+  
+I haven't gone to any foreign country, I happen to go out of state to hawai, but I do desecend from a foreign country called el salavador and honduras. I have not been in the miltary and if I were to get drafted into a branch I would pick the airforce as that would suit me the best and they get treated good compared to the navy and marines.  
+  
+
+
+
+
+## Why are you taking Statistics?  
+Did you take Math 115 or Math 116 ?  Did you know Math 115 only satisfies a general education requirement but that Math 116 counts as taking statistics in several transfer institutions??  
+What grade do you need to attain in stats to not upset your future plans, What is your plan?  
+ 
+
+### my answer     
+This is my first year doing math 115 as I only did my required math years in highschool, I did know that some classes will require to take one to be able to the another one but I didn't think math 116 would count as taking statistics in several transfer institutions. I do hope on getting a b+ and higher to maintain my happiness and my family, but also making sure I live up to that standard.   
+   
+ 
+
+
+
+
+
+
+  
+
+
+
+
